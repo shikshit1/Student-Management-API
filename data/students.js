@@ -4,15 +4,15 @@
 let students = [
   {
     id: 1,
-    name: "John Doe",
-    email: "john.doe@example.com",
+    name: "Yash",
+    email: "yash@example.com",
     course: "Computer Science",
     age: 20
   },
   {
     id: 2,
-    name: "Jane Smith",
-    email: "jane.smith@example.com",
+    name: "Rahul",
+    email: "rahul@example.com",
     course: "Information Technology",
     age: 21
   }
